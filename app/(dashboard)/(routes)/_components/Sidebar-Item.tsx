@@ -16,7 +16,7 @@ const SidebarItem = (
 ) => {
     const Pathname = usePathname( );
     const Router = useRouter();
-    const isActive = (pathname==="/"&)
+    // const isActive = (pathname==="/"&)
 
   return (
    
