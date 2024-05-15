@@ -1,4 +1,4 @@
-"use client"
+// "use client"
 
 import { UserButton} from "@clerk/nextjs"
 import { usePathname,useRouter } from "next/navigation"
